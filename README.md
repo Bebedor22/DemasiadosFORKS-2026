@@ -3,6 +3,16 @@
 
 ---
 
+## 👤 Estudiante
+
+| Campo | Dato |
+|-------|------|
+| **Nombre y Apellido** | |
+| **Legajo** | |
+| **Correo electrónico** | |
+
+---
+
 ## ¿Qué es este repositorio?
 
 Este repositorio es tu **Trabajo Práctico Individual (TPI)** de la materia. Contiene una serie de ejercicios progresivos que cubren HTML, CSS y JavaScript, organizados en dos módulos de dificultad creciente.
