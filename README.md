@@ -5,11 +5,11 @@
 
 ## 👤 Estudiante
 
-| Campo | Dato |
-|-------|------|
-| **Nombre y Apellido** | |
-| **Legajo** | |
-| **Correo electrónico** | |
+| Campo | Dato                      |
+|-------|---------------------------|
+| **Nombre y Apellido** | Tiago Manuel Ibañez       |
+| **Legajo** | 33261                     |
+| **Correo electrónico** | tibanez@alu.frlp.utn.edu.ar |
 
 ---
 
